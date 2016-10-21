@@ -1,0 +1,26 @@
+body {
+  font-family: arial, sans-serif;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+
+
+  margin: 20px auto;
+}
+
+article {
+  height: auto;
+  width: 50%;
+  margin: 10px auto;
+  padding: 5px;
+  background-color: #ededed;
+  border: 5px solid #dbd9d9;
+  border-radius: 3px;
+  text-align: center;
+}
+
+article div, article p {
+  text-align: left;
+}
